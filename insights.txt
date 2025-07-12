@@ -1,0 +1,14 @@
+Machine Learning Engineer is the most in-demand role with 800+ job listings.
+AI Architect offers the highest salary at $398K, followed by ML and AI research roles.
+Python (26.7%) and SQL (20.4%) are the most in-demand skills, required in nearly half of all AI jobs.
+The Healthcare industry provides the highest benefit score (7.65) with lowest average experience (5.7 years).
+Bachelor’s degree is the most common education requirement across all job roles.
+Full-time employment provides the highest minimum salary at $87K.
+Hiring trends peak between March and May 2024, indicating seasonal demand.
+TechCorp Inc and Cognitive Computing are the top hiring companies in AI.
+India and Ireland are among the top countries offering 100% remote roles, showing strong global flexibility.
+
+
+
+
+This dashboard is not just a visual report — it supports real-world business, hiring, and career decisions.
